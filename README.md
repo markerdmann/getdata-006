@@ -1,4 +1,4 @@
-Tidy Dataset created from the Human Activity Recognition Using Smartphones Dataset
+Tidy dataset created from the Human Activity Recognition Using Smartphones Dataset
 
 The file original_dataset_README.txt describes the files in this repository
 that belong to the HARUS dataset.
